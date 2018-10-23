@@ -1,0 +1,2 @@
+labpkg
+-DCATKIN_DEVEL_PREFIX=/home/rlam27/UCMEng_Collaboratory03/CSE180/devel -DCMAKE_INSTALL_PREFIX=/home/rlam27/UCMEng_Collaboratory03/CSE180/install -G Unix Makefiles

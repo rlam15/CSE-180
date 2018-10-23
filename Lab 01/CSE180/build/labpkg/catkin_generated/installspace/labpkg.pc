@@ -1,0 +1,8 @@
+prefix=/home/rlam27/UCMEng_Collaboratory03/CSE180/install
+
+Name: labpkg
+Description: Description of labpkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rlam27/UCMEng_Collaboratory03/CSE180/install/lib 
+Requires: 

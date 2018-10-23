@@ -1,0 +1,12 @@
+<launch>
+<node
+	pkg="labpkg"
+	type="sendtime"
+	name="sendtime"
+/>
+<node
+	pkg="labpkg"
+	type="recievetime"
+	output=t"recievetime"
+/>
+<launch>
